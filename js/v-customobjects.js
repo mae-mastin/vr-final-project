@@ -1,5 +1,5 @@
 const fakeBodyCount = 10
-const fakeBodySteps = 500
+const fakeBodySteps = 50000
 
 // Decorate the head of our guests
 Vue.component("obj-head", {
